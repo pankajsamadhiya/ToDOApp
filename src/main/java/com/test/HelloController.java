@@ -14,7 +14,7 @@ public class HelloController {
     public Map hello () throws InterruptedException {
         Map<String, String> map1 = new HashMap<String, String>();
         map1.put("id", "1");
-        map1.put("content", "Go swimming on Monday night");
+        map1.put("content", "Pankajt");
         return map1;
     }
 }
